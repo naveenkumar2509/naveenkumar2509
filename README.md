@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naveenkumar2509
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning frond end
-- 💞️ I’m looking to collaborate on front end developing
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on frontend developing
 - 📫 naveenkumar2509@outlook.com
 
 <!---
